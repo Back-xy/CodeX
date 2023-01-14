@@ -4,5 +4,7 @@ A ChatGPT AI Application using newest OpenAIs newest machine learning model.
 - Communication with Advanced GPT 3 AI model API.
 - Ability to ask AI for help.
 - Giving it Code & translating it to another language.
+- Much More.
+Try it to find out :)
 
 # Demo / https://codex-yourcodingai.netlify.app
