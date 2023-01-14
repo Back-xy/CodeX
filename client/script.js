@@ -70,7 +70,7 @@ const handleSubmit = async (e)=>{
   loader(botMessage)
 
   // fetch data from the server (bot's response)
-  const res = await fetch('http://localhost:5000', {
+  const res = await fetch('https://codex-aa43.onrender.com', {
     method: 'POST',
     headers: {
       // 'Content-Type': 'application/x-www-form-urlencoded'
